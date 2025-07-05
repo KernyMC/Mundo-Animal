@@ -1,52 +1,39 @@
 # Mundo Animal
 
-## Información del proyecto
+Mundo Animal es una plataforma web para descubrir, conocer y adoptar animales. El objetivo es conectar animales que buscan un hogar con personas responsables y amantes de los animales.
 
-Este proyecto es una plataforma para adopción y conocimiento del mundo animal.
+## Características
+- Galería de animales con información relevante
+- Formulario de adopción fácil de usar
+- Proceso de adopción transparente y seguro
+- Interfaz moderna, responsiva y amigable
 
-## ¿Cómo puedo editar este código?
+## Tecnologías utilizadas
+- React + Vite
+- TypeScript
+- Tailwind CSS
+- shadcn-ui
 
-Puedes editar tu aplicación de varias formas.
-
-**Usa tu IDE preferido**
-
-1. Clona el repositorio usando la URL de Git del proyecto.
-2. Navega al directorio del proyecto.
-3. Instala las dependencias necesarias:
+## Instalación y uso
+1. Clona el repositorio:
    ```sh
-   npm i
+   git clone https://github.com/KernyMC/Mundo-Animal.git
+   cd Mundo-Animal
    ```
-4. Inicia el servidor de desarrollo:
+2. Instala las dependencias:
+   ```sh
+   npm install
+   ```
+3. Inicia el servidor de desarrollo:
    ```sh
    npm run dev
    ```
 
-**Edita un archivo directamente en GitHub**
+## Despliegue
+Puedes desplegar la aplicación en cualquier plataforma compatible con Vite/React (Vercel, Netlify, etc.).
 
-- Navega al archivo deseado.
-- Haz clic en el botón "Edit" (icono de lápiz) en la parte superior derecha de la vista del archivo.
-- Realiza tus cambios y haz commit.
+## Contribuciones
+¡Las contribuciones son bienvenidas! Abre un issue o haz un pull request para sugerir mejoras o reportar problemas.
 
-**Usa GitHub Codespaces**
-
-- Ve a la página principal del repositorio.
-- Haz clic en el botón "Code" (verde) cerca de la parte superior derecha.
-- Selecciona la pestaña "Codespaces".
-- Haz clic en "New codespace" para lanzar un nuevo entorno.
-- Edita archivos y haz commit/push cuando termines.
-
-## Tecnologías utilizadas
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## ¿Cómo puedo desplegar este proyecto?
-
-Puedes desplegarlo en cualquier plataforma compatible con Vite/React.
-
-## ¿Puedo conectar un dominio personalizado?
-
-Sí, puedes hacerlo configurando tu dominio en la plataforma de despliegue elegida.
+## Licencia
+MIT
